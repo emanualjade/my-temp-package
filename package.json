@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "my-library-to-publish",
+  "name": "@emanualjade/my-library-to-publish",
   "author": "Emanual Jade",
   "module": "dist/my-library-to-publish.esm.js",
   "size-limit": [
